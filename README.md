@@ -34,3 +34,8 @@ The project uses multiple Lok Sabha election datasets:
 | `lse09` | Additional comparison dataset (used for joins) |
 | `voter_info` | Derived table created for turnout analysis |
 
+
+## Author  
+**Pankaj H. Chavan**  
+Business & Data Analyst | SQL • Excel • Power BI  
+LinkedIn: https://www.linkedin.com/in/pankaj-h-chavan-8076/  
